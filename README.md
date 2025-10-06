@@ -36,7 +36,7 @@ Com tudo instalado, você pode iniciar o servidor web.
 1.  **Inicie o Servidor**
     No terminal execute o arquivo principal da aplicação:
     ```bash
-    python -m streamlit run app.py
+    python -m streamlit run main.py
     ```
 
 2.  **Acesse no Navegador**
