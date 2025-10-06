@@ -1,4 +1,4 @@
-# Análise de Dados do TRE
+# Gráficos para Análise de Processos do TRE
 
 
 ## Pré-requisitos
