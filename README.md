@@ -5,7 +5,7 @@
 
 Antes de começar, garanta que você tem o Python instalado no seu sistema.
 
-* **Python**: Você pode baixar a versão mais recente em [python.org](https://www.python.org/downloads/).
+* **Python**: Você pode em [python.org](https://www.python.org/downloads/). **UTILIZE A VERSÃO 3.7**
     * **IMPORTANTE (Para usuários Windows)**: Durante a instalação, marque a caixa que diz **"Add Python to PATH"**. Isso é crucial para que os comandos funcionem no terminal.
 
 ## Instalação e Configuração
