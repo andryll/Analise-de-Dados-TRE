@@ -6,7 +6,6 @@
 Antes de começar, garanta que você tem o Python instalado no seu sistema.
 
 * **Python**: Você pode baixara última versão em [python.org](https://www.python.org/downloads/).
-    * **IMPORTANTE (Para usuários Windows)**: Durante a instalação, marque a caixa que diz **"Add Python to PATH"**. Isso é crucial para que os comandos funcionem no terminal.
 
 ## Instalação e Configuração
 
@@ -37,7 +36,7 @@ Com tudo instalado, você pode iniciar o servidor web.
 1.  **Inicie o Servidor**
     No terminal execute o arquivo principal da aplicação:
     ```bash
-    streamlit run app.py
+    python -m streamlit run app.py
     ```
 
 2.  **Acesse no Navegador**
